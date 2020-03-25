@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chicago Pizza",
+        "image": "pizza1.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 8
+
+    },
+    {
+        "id": 2,
+        "name": "Margarita Pizza",
+        "image": "pizza2.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 9
+
+    },
+    {
+        "id": 3,
+        "name": "Neapolitan Pizza",
+        "image": "pizza3.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 10
+
+    },
+    {
+        "id": 4,
+        "name": "Sicilian Pizza",
+        "image": "pizza4.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 12
+
+    },
+
+    {
+        "id": 5,
+        "name": "Greek Pizza",
+        "image": "pizza5.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 9
+
+    },
+
+    {
+        "id": 6,
+        "name": "Romano Pizza",
+        "image": "pizza6.jpg",
+        "desc": "The pan in which it is baked gives the pizza its characteristically high edge which provides ample space for large amount of cheese and a chunky tomato sauce.",
+        "price": 8
+
+    }
+]

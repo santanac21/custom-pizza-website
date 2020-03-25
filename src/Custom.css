@@ -1,0 +1,79 @@
+.containApp {
+    text-align: center;
+    margin: 0;
+    padding-top: 50px;
+}
+
+*:focus {
+    outline: none !important;
+    box-shadow: none;
+ }
+
+ button.close{
+    color: white;
+    text-shadow: none;
+    opacity: 100;
+ }
+button.close:hover{
+    color: white;
+}
+#add-mb{
+    margin-bottom: 3rem;
+}
+
+#jumbotron-custom{
+    background-image: url("./Images/pizza-jumbo.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-top: 3.75rem;
+}
+#jumbotron-about{
+    background-image: url("./Images/pizza-jumbo-about.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-top: 3.75rem;
+    margin-bottom: 0;
+}
+
+#jumbotron-order{
+    background-image: url("./Images/pizza-jumbo-order.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-top: 3.75rem;
+    margin-bottom: 0;
+}
+#jumbotron-contact{
+    background-image: url("./Images/pizza-jumbo-contact.jpg");
+    background-size: cover;
+    background-position: right 30% bottom 45%;
+    margin-top: 3.75rem;
+    margin-bottom: 0;
+}
+
+.jumbotron-text-custom{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background: rgba(0, 0, 0,0.7);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+ul li{
+    list-style: none;
+    text-align: center;
+}
+
+h3.footertitle{
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 1rem;
+
+}
+h6.footersubtitle{
+    font-size:14px;
+}
+.footertext{
+    font-size: 14px;
+}
+
