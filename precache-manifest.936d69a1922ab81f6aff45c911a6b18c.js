@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ba9dc76dce6c6bd17913860b83553ef",
+    "revision": "833d6ce6f136851d5f89c843067ccff3",
     "url": "/custom-pizza-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/custom-pizza-website/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "e1ddcf243bd3e31055bb",
-    "url": "/custom-pizza-website/static/css/main.dcf70876.chunk.css"
+    "revision": "914910ebd3dd5919b47b",
+    "url": "/custom-pizza-website/static/css/main.ce19393e.chunk.css"
   },
   {
     "revision": "b66545e1961a2c96023c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/custom-pizza-website/static/js/2.64c1b6c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1ddcf243bd3e31055bb",
-    "url": "/custom-pizza-website/static/js/main.4712b0cd.chunk.js"
+    "revision": "914910ebd3dd5919b47b",
+    "url": "/custom-pizza-website/static/js/main.47875b0d.chunk.js"
   },
   {
     "revision": "cc04b5e91bb84eb624da",
