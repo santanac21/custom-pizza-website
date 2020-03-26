@@ -20,24 +20,32 @@ class App extends Component{
   render(){
     return (
         <React.Fragment>
-          <NavComponent />
+          <div className="page-container">
+            <NavComponent />
+              <div className="content-wrap">
+                <Switch>
+                  <Route exact path="/">
+                    <Homepage/>
+                  </Route>
+                  <Route exact path="/custom-pizza-website">
+                    <Homepage/>
+                  </Route>
+                  <Route exact path="/about">
+                    <About/>
+                  </Route>
+                  <Route exact path="/order">
+                    <Order/>
+                  </Route>
+                  <Route exact path="/rewards">
+                    <Rewards/>
+                  </Route>
+                </Switch>
+              </div>
 
-          <Switch>
-            <Route exact path="/">
-              <Homepage/>
-            </Route>
-            <Route exact path="/about">
-              <About/>
-            </Route>
-            <Route exact path="/order">
-              <Order/>
-            </Route>
-            <Route exact path="/rewards">
-              <Rewards/>
-            </Route>
-          </Switch>
-
-          <FooterComponent />
+                <footer className="footer-bottom">
+                  <FooterComponent />
+                </footer>
+          </div>
         </React.Fragment>
       );
 

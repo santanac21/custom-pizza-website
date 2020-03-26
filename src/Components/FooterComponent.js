@@ -5,7 +5,7 @@ import {Container,Col, Row} from 'react-bootstrap';
 function FooterComponent() {
     return (
         <React.Fragment>
-            <Container fluid className="bg-dark text-white">
+            <Container fluid className="bg-dark text-white footer-bottom">
                 <Row>
                     <Col className="py-3 px-4 footertext">
                         <h3 className="footertitle pl-5">Opening Hours</h3>
